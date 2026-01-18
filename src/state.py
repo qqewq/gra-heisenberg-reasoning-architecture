@@ -1,0 +1,1 @@
+class CognitiveState: pass

@@ -1,0 +1,1 @@
+class OrthogonalConstraint: pass
